@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation"
-authors: []
+authors: [Reem Elorbany*, Joshua M Popp*, Katherine Rhodes, Benjamin J Strober, Kenneth Barr, Guanghao Qi, Yoav Gilad**, Alexis Battle**]
 date: 2021-11-01T23:12:59-04:00
 doi: "https://doi.org/10.1101/2021.06.03.446970"
 

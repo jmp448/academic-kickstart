@@ -68,4 +68,4 @@ user_groups:
 ---
 I am a PhD Candidate in [Alexis Battle's lab](https://battlelab.jhu.edu/) at Johns Hopkins University, in the Department of Biomedical Engineering. My undergraduate training was in Biological Engineering at Cornell University. 
 
-My research focuses on the application of machine learning methods to study at the dynamic landscape of genetic regulation of gene expression. Single-cell technologies 
+My research focuses on the application of machine learning methods to study at the dynamic landscape of genetic regulation of gene expression.

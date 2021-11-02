@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Human embryoid bodies as a novel system for genomic studies of functionally diverse cell types"
-authors: []
+authors: [Katherine Rhodes, Kenneth A Barr, Joshua M Popp, Benjamin J Strober, Alexis Battle, Yoav Gilad]
 date: 2021-11-01T23:24:07-04:00
 doi: "https://doi.org/10.1101/2021.06.16.448714"
 
