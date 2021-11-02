@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Blog"
 subtitle = ""
 
 [content]
@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I am a student writer for the [Biomedical Odyssey](https://biomedicalodyssey.blogs.hopkinsmedicine.org/) blog at Johns Hopkins School of Medicine.  Check out my first article about the politicization of the coronavirus pandemic.
