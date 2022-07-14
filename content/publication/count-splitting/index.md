@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Human embryoid bodies as a novel system for genomic studies of functionally diverse cell types"
-authors: [Katherine Rhodes, Kenneth A Barr, Joshua M Popp, Benjamin J Strober, Alexis Battle, Yoav Gilad]
-date: 2022-02-10
-doi: "https://doi.org/10.7554/eLife.71361"
+title: "Inference after latent variable estimation for single-cell RNA sequencing data"
+authors: [Anna Neufeld, Lucy L. Gao, Joshua Popp, Alexis Battle, Daniela Witten]
+date: 2022-07-01T23:24:07-04:00
+doi: "https://doi.org/10.48550/arXiv.2207.00554"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-11-01T23:24:07-04:00
@@ -13,13 +13,13 @@ publishDate: 2021-11-01T23:24:07-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "eLife"
+publication: "arXiv"
 publication_short: ""
 
-abstract: "Most disease-associated loci, though located in putatively regulatory regions, have not yet been confirmed to affect gene expression. One reason for this could be that we have not examined gene expression in the most relevant cell types or conditions. Indeed, even large-scale efforts to study gene expression broadly across tissues are limited by the necessity of obtaining human samples post-mortem, and almost exclusively from adults. Thus, there is an acute need to expand gene regulatory studies in humans to the most relevant cell types, tissues, and states. We propose that embryoid bodies (EBs), which are organoids that contain a multitude of cell types in dynamic states, can provide an answer. Single cell RNA-sequencing now provides a way to interrogate developmental trajectories in EBs and enhance the potential to uncover dynamic regulatory processes that would be missed in studies of static adult tissue. Here, we examined the properties of the EB model for the purpose mapping inter-individual regulatory differences in a large variety of cell types."
+abstract: "In the analysis of single-cell RNA sequencing data, researchers often characterize the variation between cells by estimating a latent variable, such as cell type or pseudotime, representing some aspect of the individual cell's state. They then test each gene for association with the estimated latent variable. If the same data are used for both of these steps, then standard methods for computing p-values and confidence intervals in the second step will fail to achieve statistical guarantees such as Type 1 error control. Furthermore, approaches such as sample splitting that can be applied to solve similar problems in other settings are not applicable in this context. In this paper, we introduce count splitting, a flexible framework that allows us to carry out valid inference in this setting, for virtually any latent variable estimation technique and inference approach, under a Poisson assumption. We demonstrate the Type 1 error control and power of count splitting in a simulation study, and apply count splitting to a dataset of pluripotent stem cells differentiating to cardiomyocytes."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2021.06.16.448714v1.full.pdf
+url_pdf: https://arxiv.org/pdf/2207.00554.pdf
 url_code:
 url_dataset:
 url_poster:

@@ -3,8 +3,8 @@
 
 title: "Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation"
 authors: [Reem Elorbany*, Joshua M Popp*, Katherine Rhodes, Benjamin J Strober, Kenneth Barr, Guanghao Qi, Yoav Gilad**, Alexis Battle**]
-date: 2021-11-01T23:12:59-04:00
-doi: "https://doi.org/10.1101/2021.06.03.446970"
+date: 2021-01-21
+doi: "https://doi.org/10.1371/journal.pgen.1009666"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-11-01T23:12:59-04:00
@@ -13,10 +13,10 @@ publishDate: 2021-11-01T23:12:59-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "PLOS Genetics"
 publication_short: ""
 
 abstract: "Dynamic and temporally specific gene regulatory changes may underlie unexplained genetic associations with complex disease. During a dynamic process such as cellular differentiation, the overall cell type composition of a tissue (or an in vitro culture) and the gene regulatory profile of each cell can both experience significant changes over time. To identify these dynamic effects in high resolution, we collected single-cell RNA-sequencing data over a differentiation time course from induced pluripotent stem cells to cardiomyocytes, sampled at 7 unique time points in 19 human cell lines. We employed a flexible approach to map dynamic eQTLs whose effects vary significantly over the course of bifurcating differentiation trajectories, including many whose effects are specific to one of these two lineages. Our study design allowed us to distinguish true dynamic eQTLs affecting a specific cell lineage from expression changes driven by potentially non-genetic differences between cell lines such as cell composition. Additionally, we used the cell type profiles learned from single-cell data to deconvolve and re-analyze data from matched bulk RNA-seq samples. Using this approach, we were able to identify a large number of novel dynamic eQTLs in single cell data while also attributing dynamic effects in bulk to a particular lineage. Overall, we found that using single cell data to uncover dynamic eQTLs can provide new insight into the gene regulatory changes that occur among heterogeneous cell types during cardiomyocyte differentiation."
